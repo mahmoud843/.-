@@ -117,7 +117,6 @@ footer {
   text-align: center;
 }
         </style>
-          </body>
 </head>
     <nav>
         <div class="logo">mahmoud</div>
