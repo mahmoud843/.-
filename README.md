@@ -1,4 +1,4 @@
-<html lang="en">
+<html>
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -178,5 +178,4 @@ footer {
     <footer>
         <p>&copy; 2023 mahmoud mohamed</p>
     </footer>
-</body>
 </html>
