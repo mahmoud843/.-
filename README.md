@@ -119,7 +119,6 @@ footer {
         </style>
           </body>
 </head>
-<body>
     <nav>
         <div class="logo">mahmoud</div>
         <ul class="nav-links">
