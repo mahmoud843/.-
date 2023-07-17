@@ -127,7 +127,6 @@ footer {
         </style>
           </body>
 </head>
-<body>
     <nav>
         <div class="logo">mahmoud</div>
         <ul class="nav-links">
@@ -186,5 +185,4 @@ footer {
     <footer>
         <p>&copy; 2023 mahmoud mohamed</p>
     </footer>
-</body>
 </html>
