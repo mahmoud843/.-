@@ -125,7 +125,6 @@ footer {
     /* CSS LAPTOP */
 }
         </style>
-          </body>
 </head>
     <nav>
         <div class="logo">mahmoud</div>
