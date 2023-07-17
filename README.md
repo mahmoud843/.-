@@ -81,12 +81,14 @@ header {
 #contact {
   padding: 10px;
   text-align: center;
+  background-color:  #f2f2f2;
 }
 
 #contact-form {
   display: flex;
   flex-direction: column;
   align-items: center;
+  
 }
 
 #contact-form label {
@@ -95,15 +97,15 @@ header {
 
 #contact-form input,
 #contact-form textarea {
-  width: 50%;
+  width: 40%;
   padding: 10px;
   margin-bottom: 10px;
   box-sizing: border-box;
 }
 
 #contact-form button {
-  background-color: #333;
-  color: #fff;
+  background-color: #4b4747;
+  color: #030303;
   border: blue;
   padding: 10px 10px;
   cursor: pointer;
@@ -111,13 +113,21 @@ header {
 
 /* Footer */
 footer {
-  background-color: #333;
-  color: #fff;
+  background-color: #8fb3f7;
+  color: #0a0a0a;
   padding: 20px;
   text-align: center;
 }
+@media screen and (max-width: 480px) {
+    /*CSS MOBILE DEVICE */
+}
+@media screen and (min-width: 1024px) {
+    /* CSS LAPTOP */
+}
         </style>
+          </body>
 </head>
+<body>
     <nav>
         <div class="logo">mahmoud</div>
         <ul class="nav-links">
@@ -147,8 +157,8 @@ footer {
         <ul class="skills-list">
             <ol>
                 <li>HTML</li>
-                <li>css</li>
-                <li>js</li>
+                <li>CSS</li>
+                <li>JS</li>
             </ol>
         </ul>
     </section>
@@ -156,9 +166,7 @@ footer {
     <section id="projects">
         <h2>Projects</h2>
         <p>it is my first project</p>
-        <div class="project">
-            <h3>Project Title</h3>
-            <p>personal Project</p> 
+        <div class="project">    
         </div>
     </section>
 
@@ -178,4 +186,5 @@ footer {
     <footer>
         <p>&copy; 2023 mahmoud mohamed</p>
     </footer>
+</body>
 </html>
