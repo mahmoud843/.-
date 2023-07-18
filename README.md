@@ -179,7 +179,7 @@ footer {
             <textarea id="message" name="Name" required></textarea>
             <button type="submit">Send Message</button>
         </form>
-        <a href="https://www.facebook.com/profile.php?id=100024291725101&mibextid=ZbWKwL"><img src="https://imgur.com/fLnLK6z" alt="Facebook"></a>
+        <a href="https://www.facebook.com/profile.php?id=100024291725101&mibextid=ZbWKwL"><img src="https://imgur.com/fLnLK6z" alt="MY account on Facebook"></a>
 
     <footer>
         <p>&copy; 2023 mahmoud mohamed</p>
