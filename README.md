@@ -2,7 +2,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>personal portfolio</title>
+        <title>my profile</title>
         <style>
 
 	/* Navigation Bar */
@@ -125,6 +125,7 @@ footer {
     /* CSS LAPTOP */
 }
         </style>
+          </body>
 </head>
     <nav>
         <div class="logo">mahmoud</div>
@@ -179,7 +180,7 @@ footer {
             <textarea id="message" name="Name" required></textarea>
             <button type="submit">Send Message</button>
         </form>
-    </section>
+        <a href="https://www.facebook.com/profile.php?id=100024291725101&mibextid=ZbWKwL"><img src="https://imgur.com/fLnLK6z" alt="Facebook"></a>
 
     <footer>
         <p>&copy; 2023 mahmoud mohamed</p>
