@@ -38,7 +38,7 @@ header {
   text-align: center;
 }
 
-/* About Me Section *
+/* About Me Section */
 #about {
   padding: 10px;
   text-align: center;
@@ -139,7 +139,8 @@ footer {
     <section id="about">
         <h2><strong>About me</strong></h2>
         <div class="about-content">
-            <p>I study commerce at Helwan University and I live in elMarg.</p>
+            <p>I study commerce at Helwan University and I live in elMarg.
+	</p>  انا ادرس تجارة في جامعه حلوان وعايش في المرج
         </div>
     </section>
 
