@@ -1,19 +1,23 @@
-document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-  anchor.addEventListener('click', function (e) {
-      e.preventDefault();
-      document.querySelector(this.getAttribute('href')).scrollIntoView({
-          behavior: 'smooth'
-      });
-  });
-});
+// Generate a random number between 1 and 100
+const randomNumber = Math.floor(Math.random() * 100) + 1;
 
-// Form submission handling
-document.getElementById('contact-form').addEventListener('submit', function (e) {
-  e.preventDefault();
-  // You can add code here to handle form submission, such as sending an email or storing the data.
-  // For demonstration purposes, let's log the form data to the console.
-  const formData = new FormData(this);
-  console.log('Form data:', Object.fromEntries(formData));
-  // Clear the form inputs
-  this.reset();
-});
+// Function to check the user's guess
+function checkGuess() {
+  // Get the user's guess from the input field
+  const userGuess = parseInt(document.getElementById('userGuess').value);
+
+  // Get the message element
+  const message = document.getElementById('message');
+
+  // Check if the user's guess is correct, too high, or too low
+  if (userGuess === randomNumber) {
+    message.style.color = 'green';
+    message.textContent = 'Congratulations! You guessed the correct number!';
+  } else if (userGuess < randomNumber) {
+    message.style.color = 'red';
+    message.textContent = 'Too low. Try again.';
+  } else {
+    message.style.color = 'red';
+    message.textContent = 'Too high. Try again.';
+  }
+}
