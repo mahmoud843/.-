@@ -3,6 +3,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>my profile</title>
+        <script src="script.js"></script>
         <style>
 	/* Navigation Bar */
 nav {
@@ -48,7 +49,7 @@ header {
 #skills {
   padding: 10px;
   background-color: #f2f2f2;;
-  text-align: center;
+  text-align:center;
 }
 
 .skills-list {
@@ -139,8 +140,7 @@ footer {
     <section id="about">
         <h2><strong>About me</strong></h2>
         <div class="about-content">
-            <p>I study commerce at Helwan University and I live in elMarg.
-	</p>  انا ادرس تجارة في جامعه حلوان وعايش في المرج
+            <p>I study commerce at Helwan University and I live in elMarg.</p>
         </div>
     </section>
 
