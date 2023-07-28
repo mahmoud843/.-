@@ -180,7 +180,6 @@ footer {
             <textarea id="message" name="Name" required></textarea>
             <button type="submit">Send Message</button>
         </form>
-        <div>
           <section id="للتواصل معي"> 
             <h3>للتواصل معي</h3>
           <a href="https://www.facebook.com/profile.php?id=100024291725101&mibextid=ZbWKwL">زياره صفحتي علي فيسبوك</a>
