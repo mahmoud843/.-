@@ -90,7 +90,6 @@ header {
   align-items: center;
   
 }
-
 #contact-form label {
   margin-bottom: 10px;
 }
@@ -105,10 +104,15 @@ header {
 
 #contact-form button {
   background-color: #4b4747;
-  color: #030303;
-  border: blue;
   padding: 10px 10px;
   cursor: pointer;
+}
+
+/* للتواصل معي section */
+#للتواصل  {
+  padding: 10px;
+  text-align: left;
+  background-color:  #182ace;
 }
 
 /* Footer */
@@ -118,6 +122,9 @@ footer {
   padding: 20px;
   text-align: center;
 }
+
+
+
         </style>
 </head>
     <nav>
@@ -173,8 +180,12 @@ footer {
             <textarea id="message" name="Name" required></textarea>
             <button type="submit">Send Message</button>
         </form>
-        <a href="https://www.facebook.com/profile.php?id=100024291725101&mibextid=ZbWKwL"><img src="https://imgur.com/fLnLK6z" alt="Facebook"></a>
-
+        <div>
+          <section id="للتواصل معي"> 
+            <h3>للتواصل معي</h3>
+          <a href="https://www.facebook.com/profile.php?id=100024291725101&mibextid=ZbWKwL">زياره صفحتي علي فيسبوك</a>
+        </div>
+        
     <footer>
         <p>&copy; 2023 mahmoud mohamed</p>
     </footer>
