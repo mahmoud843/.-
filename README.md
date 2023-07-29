@@ -183,7 +183,7 @@ footer {
           <section id="للتواصل معي"> 
             <h3>للتواصل معي</h3>
          <ul>
-         <li></ol><a href="https://www.facebook.com/profile.php?id=100024291725101&mibextid=ZbWKwL"> صفحتي علي فيسبوك</a></li>
+         <li><a href="https://www.facebook.com/profile.php?id=100024291725101&mibextid=ZbWKwL"> صفحتي علي فيسبوك</a></li>
           <li><a href="https://www.instagram.com/mahmoudmohamed_amer">اكونت الانستغرام</a></li>
         </ul>
     <footer>
