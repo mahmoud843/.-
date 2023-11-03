@@ -128,7 +128,7 @@ footer {
         </style>
 </head>
     <nav>
-        <div class="logo">mahmoud</div>
+        <div class="logo">mahmoud(monarmez)</div>
         <ul class="nav-links">
             <li><a href="#about">About</a></li>
             <li><a href="#skills">Skills</a></li>
@@ -138,7 +138,7 @@ footer {
     </nav>
 
     <header>
-        <h1>Welcome my name is mahmoud(monarmez)</h1>
+        <h1>Welcome my name is mahmoud</h1>
         <a href="https://imgur.com/A3tkwTF"><img src="https://i.imgur.com/A3tkwTF.jpg" title="source: imgur.com" width="50%"/></a>
 
         <p>some of my skills, projects, and achievements</p>
