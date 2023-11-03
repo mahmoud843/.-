@@ -138,7 +138,7 @@ footer {
     </nav>
 
     <header>
-        <h1>Welcome my name is mahmoud</h1>
+        <h1>Welcome my name is mahmoud(monarmez)</h1>
         <a href="https://imgur.com/A3tkwTF"><img src="https://i.imgur.com/A3tkwTF.jpg" title="source: imgur.com" width="50%"/></a>
 
         <p>some of my skills, projects, and achievements</p>
