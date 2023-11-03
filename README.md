@@ -128,7 +128,7 @@ footer {
         </style>
 </head>
     <nav>
-        <div class="logo">mahmoud(monarmez)</div>
+        <div class="logo">mahmoud  (monarmez)</div>
         <ul class="nav-links">
             <li><a href="#about">About</a></li>
             <li><a href="#skills">Skills</a></li>
