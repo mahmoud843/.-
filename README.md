@@ -1,41 +1,51 @@
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>my profile</title>
-        <script src="script.js"></script>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+     <meta. charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>my profile</title>
+     <script src="script.js"></script>
+</head>
         <style>
 	/* Navigation Bar */
 nav {
   background-color: blue;
   color: red;
-  padding: 10px;
+  padding: 5px;
+  text-align: center;
 }
 .logo {
-  font-size: 50px;
+  font-size: 40px;
   font-weight: bold;
-  margin-right: 40px;
+  margin-right: 4px;
+
 }
 .nav-links {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
+  list-style-type: circle;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  margin-right: 4px;
+
 }
 
 .nav-links li {
-  margin-right: 50px;
+  margin-right: 5px;
+  display: inline ;
+  text-align: center;
 }
 
 .nav-links li a {
   color: #131414;
   text-decoration: none;
+  text-align: center;
 }
 
 /* Hero Section */
 header {
   background-color: #f2f2f2;
-  padding: 50px;
+  padding: 10px;
   text-align: center;
 }
 
@@ -64,7 +74,7 @@ header {
 
 /* Projects Section */
 #projects {
-  padding: 50px;
+  padding: 5px;
   text-align: center;
 }
 
@@ -119,11 +129,9 @@ header {
 footer {
   background-color: #8fb3f7;
   color: #0a0a0a;
-  padding: 20px;
-  text-align: center;
+  padding: 10px;
+  text-align: left;
 }
-
-
 
         </style>
 </head>
@@ -182,9 +190,11 @@ footer {
         </form>
           <section id="للتواصل معي"> 
             <h3>للتواصل معي</h3>
-         <ul>
+        <ul>
+            <ol>
          <li><a href="https://www.facebook.com/profile.php?id=100024291725101&mibextid=ZbWKwL"> صفحتي علي فيسبوك</a></li>
-          <li><a href="https://www.instagram.com/mahmoudmohamed_amer">اكونت الانستغرام</a></li>
+         <li><a href="https://www.instagram.com/mahmoudmohamed_amer">اكونت الانستغرام</a></li>
+           </ol>
         </ul>
     <footer>
         <p>&copy; 2023 mahmoud mohamed</p>
