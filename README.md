@@ -130,7 +130,6 @@ footer {
 }
 
         </style>
-</head>
     <nav>
         <div class="logo">mahmoud </div>
         <ul class="nav-links">
